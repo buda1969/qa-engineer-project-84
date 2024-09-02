@@ -1,0 +1,14 @@
+---
+- summary: |
+    Страница магазина
+  status: pass |
+
+- summary: |
+    Окно поиска
+  status: fail
+  
+  - summary: |
+    Корзина
+  status: pass|
+|
+
